@@ -1,0 +1,17 @@
+#page_background {
+    background-image: url(checker.png);
+}
+
+#page_body {
+    background-color: black;
+    color: aliceblue;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-family: monospace;
+}
+
+#front_image {
+    width: 100%;
+}

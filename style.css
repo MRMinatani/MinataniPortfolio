@@ -25,6 +25,7 @@
     align-content: center;
 }
 .container-item {
+    font-family: monospace;
     flex-grow: 1;
 }
 

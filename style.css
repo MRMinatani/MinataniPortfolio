@@ -30,19 +30,12 @@
 }
 
 a:link {
-
     color: #880015;
     text-shadow: 2px 2px #363636;
     text-decoration: none;
 }
 a:hover {
     color: aliceblue;
-}
-
-.link-card {
-    width: 90%%;
-    flex-grow: 1;
-    
 }
 
 #blog-title {

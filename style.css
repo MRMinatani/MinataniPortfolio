@@ -23,6 +23,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: center;
+    font-family: monospace;
 }
 .container-item {
     font-family: monospace;

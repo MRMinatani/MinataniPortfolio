@@ -1,5 +1,5 @@
 #page_background {
-    background-image: url(checker.png);
+    background-image: url(checker_purple.jpeg);
 }
 
 #page_body {
@@ -30,9 +30,10 @@
 }
 
 a:link {
-    color: #880015;
+    color:#551A8B;
     text-shadow: 2px 2px #363636;
     text-decoration: none;
+    fonr-family: monospace;
 }
 a:hover {
     color: aliceblue;

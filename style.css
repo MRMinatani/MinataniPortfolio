@@ -9,7 +9,7 @@
     margin-left: 20%;
     margin-right: 20%;
     text-align: center;
-    font-family: monospace;
+    font-family: "Courier New", monospace;
 
 }
 
@@ -23,10 +23,11 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: center;
-    font-family: monospace;
+    font-family: "Courier New", monospace;
 }
+
 .container-item {
-    font-family: monospace;
+    font-family: "Courier New", monospace;
     flex-grow: 1;
 }
 
@@ -34,7 +35,7 @@ a:link {
     color:#551A8B;
     text-shadow: 2px 2px #363636;
     text-decoration: none;
-    font-family: monospace;
+    font-family: "Courier New", monospace;
 }
 a:hover {
     color: aliceblue;
@@ -42,4 +43,5 @@ a:hover {
 
 #blog-title {
     text-align: left;
+    font-family: "Courier New", monospace;
 }
